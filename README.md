@@ -15,4 +15,4 @@ Cisco ACL User Define Language for Notepad++
 
 * Example:
 
-![Cisco_ACL](img/Cisco_ACL.png)
+![Cisco_ACL](https://raw.githubusercontent.com/ikashapov/NotepadPlus-userDefineLang/master/img/Cisco_ACL.png)

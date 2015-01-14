@@ -1,0 +1,2 @@
+# NotepadPlus-userDefineLang
+NotepadPlus userDefineLang

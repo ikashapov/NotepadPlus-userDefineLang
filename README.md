@@ -1,9 +1,9 @@
 # NotepadPlus-userDefineLang
 Cisco ACL User Define Language for Notepad++
 
-* Download [Notepad++](http://notepad-plus-plus.org/)
+* Download and install [Notepad++](http://notepad-plus-plus.org/)
 
-* Download [User Define Language for Cisco ACL](https://raw.githubusercontent.com/ikashapov/NotepadPlus-userDefineLang/master/Cisco_ACL.xml)
+* Save as [User Define Language for Cisco ACL](https://raw.githubusercontent.com/ikashapov/NotepadPlus-userDefineLang/master/Cisco_ACL.xml)
 
 * Run Notepad++
 
